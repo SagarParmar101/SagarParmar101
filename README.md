@@ -1,22 +1,35 @@
-## 👋 Hi, I'm Sagar Parmar 
+# 👋 Hi, I'm Sagar Parmar
 
-**Data Analyst | Python | SQL | Power BI**
+**Data Analyst | Data Scientist**
 
-I turn data into insights.
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F700&center=true&width=435&lines=Data+Analysis;SQL+Optimization;Python+Automation;Building+Data+Insights!)
 
-## 🛠️ My Skills
-- Python
-- SQL
-- Power BI / Tableau
-- Excel
+I transform data into actionable insights using Python, SQL, and data visualization tools.
 
+---
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sagar-parmar2025) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:parmarsagar10101) 
+## 🛠️ Tech Stack
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-# 📊 GitHub Stats:
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=flat&logo=postgresql&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2CC8F?style=flat&logo=power-bi&logoColor=black)
+
+---
+
+## 📊 Featured Projects
+
+| Project | Description | Key Insights | Tools |
+|---------|-------------|--------------|-------|
+| **[COVID-19 Data Analysis](LINK)** | Comprehensive end-to-end analysis of global pandemic data | Tracked infection rates, mortality trends across 150+ countries | Python, SQL, Power BI |
+| **[Indian Car Sales Dashboard](LINK)** | Analyzed 23 years of Indian automotive market data | Identified brand performance trends, regional sales patterns | Excel, PivotTables, PivotCharts |
+| **[Customer Shopping Pattern](LINK)** | Built interactive dashboard analyzing customer behavior | Segmented customers, identified peak shopping hours | Excel, PivotTables 
+
+---
+
+## 📈 GitHub Stats
+
 ![](https://github-readme-stats.vercel.app/api?username=SagarParmar101&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=SagarParmar101&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SagarParmar101&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
@@ -26,4 +39,14 @@ I turn data into insights.
 
 ---
 [![](https://visitcount.itsvg.in/api?id=SagarParmar101&icon=0&color=0)](https://visitcount.itsvg.in)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SagarParmar101&layout=compact&theme=radical)
+
+---
+
+## 🤝 Connect
+
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sagar-parmar2025)
+- [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:parmarsagar10101)
+- 🌐 **Portfolio:** [https://sagarparmar.pages.dev/]
 
