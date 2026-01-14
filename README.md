@@ -14,17 +14,28 @@ I transform data into actionable insights using Python, SQL, and data visualizat
 ![SQL](https://img.shields.io/badge/SQL-336791?style=flat&logo=postgresql&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2CC8F?style=flat&logo=power-bi&logoColor=black)
+![Power Bi](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=Tableau&logoColor=white)
 
 ---
 
 ## 📊 Featured Projects
 
-| Project | Description | Key Insights | Tools |
-|---------|-------------|--------------|-------|
-| **[COVID-19 Data Analysis](LINK)** | Comprehensive end-to-end analysis of global pandemic data | Tracked infection rates, mortality trends across 150+ countries | Python, SQL, Power BI |
-| **[Indian Car Sales Dashboard](LINK)** | Analyzed 23 years of Indian automotive market data | Identified brand performance trends, regional sales patterns | Excel, PivotTables, PivotCharts |
-| **[Customer Shopping Pattern](LINK)** | Built interactive dashboard analyzing customer behavior | Segmented customers, identified peak shopping hours | Excel, PivotTables 
+### 🏆 Indian Car Sales Dashboard
+**[Repository](https://github.com/SagarParmar101/Indian-Car-Sales-Dashboard-Project-2000-2023-)**
+
+![Dashboard Demo](https://github.com/SagarParmar101/Indian-Car-Sales-Dashboard-Project-2000-2023-/blob/main/Car%20Sales%20Trends%20%26%20Insights%20(India%202000%E2%80%932023)%20.gif)
+
+Analyzed 23 years of Indian automotive market data | Identified brand performance trends, regional sales patterns | **Tools:** Excel, PivotTables, PivotCharts, Tableau
+
+---
+
+### Other Notable Projects
+
+| Project | Description | Tools |
+|---------|-------------|-------|
+| **[COVID-19 Data Analysis](https://github.com/SagarParmar101/COVID-19-Data-Analysis-Visualization-Project)** | Comprehensive end-to-end analysis of global pandemic data | Python, SQL, Power BI |
+| **[Customer Shopping Pattern](https://github.com/SagarParmar101/Customer-Shopping-Pattern-Dashboard)** | Interactive dashboard analyzing customer behavior | Excel, PivotTables, Power BI |
 
 ---
 
@@ -34,6 +45,9 @@ I transform data into actionable insights using Python, SQL, and data visualizat
 ![](https://nirzak-streak-stats.vercel.app/?user=SagarParmar101&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SagarParmar101&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+
+
+```
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=SagarParmar101&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
@@ -43,6 +57,7 @@ I transform data into actionable insights using Python, SQL, and data visualizat
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SagarParmar101&layout=compact&theme=radical)
 
 ---
+```
 
 ## 🤝 Connect
 
