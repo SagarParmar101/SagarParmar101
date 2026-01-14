@@ -47,7 +47,7 @@ Analyzed 23 years of Indian automotive market data | Identified brand performanc
 
 
 
-```
+<!--
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=SagarParmar101&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
@@ -57,7 +57,7 @@ Analyzed 23 years of Indian automotive market data | Identified brand performanc
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SagarParmar101&layout=compact&theme=radical)
 
 ---
-```
+-->
 
 ## 🤝 Connect
 
