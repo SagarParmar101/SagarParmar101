@@ -22,7 +22,7 @@ I transform data into actionable insights using Python, SQL, and data visualizat
 ## 📊 Featured Projects
 
 ### 🏆 Indian Car Sales Dashboard
-**[Repository]([https://github.com/SagarParmar101/Indian-Car-Sales-Dashboard-Project-2000-2023-](https://github.com/SagarParmar101/indian-used-car-listings-dashboard))**
+**[Repository](https://github.com/SagarParmar101/indian-used-car-listings-dashboard)**
 
 ![Dashboard Demo][(https://github.com/SagarParmar101/images/Indian_Car_sales_dahboards.gif](https://github.com/SagarParmar101/indian-used-car-listings-dashboard/blob/main/images/Indian_Car_sales_dahboards.gif))
 
