@@ -24,7 +24,7 @@ I transform data into actionable insights using Python, SQL, and data visualizat
 ### 🏆 Indian Car Sales Dashboard
 **[Repository](https://github.com/SagarParmar101/indian-used-car-listings-dashboard)**
 
-![Dashboard Demo][(https://github.com/SagarParmar101/images/Indian_Car_sales_dahboards.gif](https://github.com/SagarParmar101/indian-used-car-listings-dashboard/blob/main/images/Indian_Car_sales_dahboards.gif))
+![Dashboard Demo](https://github.com/SagarParmar101/images/Indian_Car_sales_dahboards.gif](https://github.com/SagarParmar101/indian-used-car-listings-dashboard/blob/main/images/Indian_Car_sales_dahboards.gif)
 
 Analyzed 23 years of Indian automotive market data | Identified brand performance trends, regional sales patterns | **Tools:** Excel, PivotTables, PivotCharts, Tableau
 
